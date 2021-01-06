@@ -13,10 +13,10 @@ There is much more to being a technical major than just coding, debugging, testi
 
 # Table of Contents
 
-1. [About](https://github.com/ynshah3/ynshah3.github.io/blob/main/README.md#about)
-2. [Goals](https://github.com/ynshah3/ynshah3.github.io/blob/main/README.md#goals)
-3. [Projects](https://github.com/ynshah3/ynshah3.github.io/blob/main/README.md#projects)
-4. [Conclusion](https://github.com/ynshah3/ynshah3.github.io/blob/main/README.md#conclusion)
+1. [About](#about)
+2. [Goals](#goals)
+3. [Projects](#projects)
+4. [Conclusion](#conclusion)
 
 ## About
 
@@ -55,6 +55,6 @@ Projects that I am proud of are:
 
 ## Conclusion
 
-Thank you so much for taking the time to visit my page and to navigate and be here till the end. I promise to keep this site up-to-date with my [Projects](https://github.com/ynshah3/ynshah3.github.io/blob/main/README.md#projects) and [Goals](https://github.com/ynshah3/ynshah3.github.io/blob/main/README.md#goals). I also promise to update the [About](https://github.com/ynshah3/ynshah3.github.io/blob/main/README.md#about) whenever there is a change in me, my hobbies, or my ideologies (*You have to accept the fact that we are humans and we change*). You know where to find me if you want me to see your GitHub page (~~so that I can hack it~~ to admire it and take inspiration from it).
+Thank you so much for taking the time to visit my page and to navigate and be here till the end. I promise to keep this site up-to-date with my [Projects](#projects) and [Goals](#goals). I also promise to update the [About](#about) whenever there is a change in me, my hobbies, or my ideologies (*You have to accept the fact that we are humans and we change*). You know where to find me if you want me to see your GitHub page (~~so that I can hack it~~ to admire it and take inspiration from it).
 
 Bye!
