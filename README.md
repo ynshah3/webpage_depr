@@ -22,7 +22,7 @@ There is much more to being a technical major than just coding, debugging, testi
 
 Hi 🙂
 
-I am **Yash Shah**, a sophomore at UC San Diego. Currently, I am pursuing a major in Computer Science. My interests lie in learning algorithms and developing programs in the related fields of Artificial Intelligence and Machine Learning. 
+I am **Yash Shah**, a sophomore at UC San Diego. Currently, I am pursuing a major in Computer Science. My interests lie in learning algorithms and developing software programs in the related fields of Artificial Intelligence and Machine Learning. 
 
 As you might have guessed from the Introduction, I love to paint in my spare time. Apart from painting, I also love to read books - epics, philosophy, history, fantasy, adventure, and what not!
 
@@ -36,12 +36,16 @@ Here are links to my LinkedIn profile and GitHub repositories...
 ## Goals
 
 Some of my goals are:
-
-[x]
-[]
-[]
-[]
-[] 
+- [x] Develop clean and efficient software that is of practical significance
+- [x] Master programming languages and their libraries for writing softwares with storing theoretical foundations
+      ```
+      System.out.println("Java");
+      cout << "C++" << endl;
+      print("Python")
+      ```
+- [] Develop software while being aware of the dangers posed by poorly executing it
+- [] Form meaningful connections with people - network
+- [x] Keep pursuing my hobbies
 
 ## Projects
 
