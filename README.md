@@ -38,6 +38,7 @@ Here are links to my LinkedIn profile and GitHub repositories...
 Some of my goals are:
 - [x] Develop clean and efficient software that is of practical significance
 - [x] Master programming languages and their libraries for writing softwares with storing theoretical foundations
+      
       ```
       System.out.println("Java");
       ```
