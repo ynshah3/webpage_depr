@@ -1,4 +1,4 @@
-![image](img1.jpg =100x200)
+[<img src="img1.jpg" width="100"/>](img1.jpg)
 
 You might be wondering why is this painting of a dog the first thing I see on a developer's page? 
 
