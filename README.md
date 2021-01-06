@@ -13,10 +13,10 @@ There is much more to being a technical major than just coding, debugging, testi
 
 # Table of Contents
 
-1. About
-2. Goals
-3. Projects
-4. Conclusion
+1. [About](https://github.com/ynshah3/ynshah3.github.io/blob/main/README.md#about)
+2. [Goals](https://github.com/ynshah3/ynshah3.github.io/blob/main/README.md#goals)
+3. [Projects](https://github.com/ynshah3/ynshah3.github.io/blob/main/README.md#projects)
+4. [Conclusion](https://github.com/ynshah3/ynshah3.github.io/blob/main/README.md#conclusion)
 
 ## About
 
