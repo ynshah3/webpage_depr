@@ -30,17 +30,31 @@ I would love to connect with you all, talk with you about what you like to do in
 
 Here are links to my LinkedIn profile and GitHub repositories...
 
-- LinkedIn : [](https://linkedin.com/in/ynshah3)
-- GitHub : [](https://github.com/ynshah3)
+- [LinkedIn](https://linkedin.com/in/ynshah3)
+- [GitHub](https://github.com/ynshah3)
 
 ## Goals
 
-
+Some of my goals are:
+*
+*
+*
+*
+* 
 
 ## Projects
 
-
+Projects that I am proud of are:
+1.
+   -
+   -
+   - 
+2. 
+   -
+   -
 
 ## Conclusion
 
+Thank you so much for taking the time to visit my page and to navigate and be here till the end. I promise to keep this site up-to-date with my [Projects](https://github.com/ynshah3/ynshah3.github.io/blob/main/README.md#projects) and [Goals](https://github.com/ynshah3/ynshah3.github.io/blob/main/README.md#goals). I also promise to update the [About](https://github.com/ynshah3/ynshah3.github.io/blob/main/README.md#about) whenever there is a change in me, my hobbies, or my ideologies (*You have to accept the fact that we are humans and we change*). You know where to find me if you want me to see your GitHub page (~~so that I can hack it~~ to admire it and take inspiration from it).
 
+Bye!
