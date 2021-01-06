@@ -53,6 +53,7 @@ Projects that I am proud of are:
    - The user (continuing as admin) has privileges that allow him to add or remove book from the library, get a list of all books, get details about a particular book, get information about customers who have issued books but haven't returned yet, etc
    - The user (continuing as customer)can check which books are available based on a particular genre of books, issue books, and return books
    
+   
 2. [Tick Tack Toe](https://github.com/ynshah3/Tick-Tack-Toe)
    - Implemented the classic game of Tick Tack Toe, played through the command line
    - The user has the option of playing the game with another user (a two-player game) or to play with the computer (using Artificial Intelligence)
