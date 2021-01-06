@@ -41,15 +41,12 @@ Some of my goals are:
       
       ```
       System.out.println("Java");
-      ```
-      <br>
-      ```
+      
       cout << "C++" << endl;
-      ```
-      <br>
-      ```
+      
       print("Python")
       ```
+      
 - [ ] Develop software while being aware of the dangers posed by poorly executing it
 - [ ] Form meaningful connections with people - network
 - [x] Keep pursuing my hobbies
