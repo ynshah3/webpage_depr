@@ -1,4 +1,4 @@
-[<img src="img1.jpg" width="300" class="center"/>](img1.jpg)
+[<img align="middle" src="img1.jpg" width="300"/>](img1.jpg)
 
 You might be wondering why is this painting of a dog the first thing I see on a developer's page? 
 
