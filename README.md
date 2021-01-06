@@ -1,4 +1,4 @@
-![image](img1.jpg)
+![image](img1.jpg =100x200)
 
 You might be wondering why is this painting of a dog the first thing I see on a developer's page? 
 
