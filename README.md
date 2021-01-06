@@ -50,13 +50,11 @@ Projects that I am proud of are:
 1. [Library Management System](https://github.com/ynshah3/Library-Management-System)
    - This program uses SQL to maintain a database of the details of books in the library and of the issuers of books from the library
    - Used PyMySQL to use SQL within Python and connect to a local host (on my computer)
-   - The program first asks the user if they want to continue as an Admin or as a customer. Continuing as an admin requires a password
-   - The admin has privileges that allow him to add or remove book from the library, get a list of all books, get details about a particular book, get information about customers who have issued books but haven't returned yet, etc
-   - The customer, however, requires an ID (of the form A??) that was assigned to him when he opened an account with the library. He can check which books are available based on a particular genre of books, issue books, and return books. Books issued must be returned within 14 days of issuing to prevent late fees, and a customer cannot issue more than 3 books at a time (he can have a maximum of 3 issued books in his possession)
+   - The user (continuing as admin) has privileges that allow him to add or remove book from the library, get a list of all books, get details about a particular book, get information about customers who have issued books but haven't returned yet, etc
+   - The user (continuing as customer)can check which books are available based on a particular genre of books, issue books, and return books
    
 2. [Tick Tack Toe](https://github.com/ynshah3/Tick-Tack-Toe)
-   - Implemented the classic game of Tick Tack Toe
-   - Used the command line to ask the users for the coordinates of their moves and then printed them in the 9x9 board
+   - Implemented the classic game of Tick Tack Toe, played through the command line
    - The user has the option of playing the game with another user (a two-player game) or to play with the computer (using Artificial Intelligence)
    - When playing with the computer, the user has the option to play with a beginner AI that uses random moves, an intermediate AI that makes winning moves and prevents losing moves, and a trained AI (using Minimax Algorithm, optimzed using Alpha Beta Pruning) that never loses
 
