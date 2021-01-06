@@ -39,13 +39,11 @@ Some of my goals are:
 - [x] Develop clean and efficient software that is of practical significance
 - [x] Master programming languages and their libraries for writing softwares with storing theoretical foundations
       
-      ```
       System.out.println("Java");
       
       cout << "C++" << endl;
       
       print("Python")
-      ```
       
 - [ ] Develop software while being aware of the dangers posed by poorly executing it
 - [ ] Form meaningful connections with people - network
