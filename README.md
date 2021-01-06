@@ -1,4 +1,4 @@
-## Introduction
+## Preface
 
 [<img src="img1.jpg" width="300"/>](img1.jpg)
 
@@ -37,11 +37,11 @@ Here are links to my LinkedIn profile and GitHub repositories...
 
 Some of my goals are:
 
-*
-*
-*
-*
-* 
+[x]
+[]
+[]
+[]
+[] 
 
 ## Projects
 
