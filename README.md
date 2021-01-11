@@ -24,9 +24,9 @@ Hi 🙂
 
 I am **Yash Shah**, a sophomore at UC San Diego. Currently, I am pursuing a major in Computer Science. My interests lie in learning algorithms and developing software programs in the related fields of Artificial Intelligence and Machine Learning. 
 
-As you might have guessed from the Introduction, I love to paint in my spare time. Apart from painting, I also love to read books - epics, philosophy, history, fantasy, adventure, and what not!
+As you might have guessed from the [Introduction](#preface), I love to paint in my spare time. Apart from painting, I also love to read books - epics, philosophy, history, fantasy, adventure, and what not!
 
-I would love to connect with you all, talk with you about what you like to do in your spare time, what ae your academic interests, or just to talk in general. You can also talk with me about what you liked in this page (, or what you did not like 🤫).
+I would love to connect with you all, talk with you about what you like to do in your spare time, what your academic interests are, or just to talk in general. You can also talk with me about what you liked in this page (, or what you did not like 🤫).
 
 Here are links to my LinkedIn profile and GitHub repositories...
 
@@ -37,7 +37,7 @@ Here are links to my LinkedIn profile and GitHub repositories...
 
 Some of my goals are:
 - [x] Develop clean and efficient software that is of practical significance
-- [x] Master programming language and their libraries for writing software with storing theoretical foundations <br>
+- [x] Master programming language and their libraries for writing software with strong theoretical foundations <br>
       
       System.out.println("Java");
       
