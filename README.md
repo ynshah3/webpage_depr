@@ -28,7 +28,7 @@ As you might have guessed from the [Introduction](#preface), I love to paint in 
 
 I would love to connect with you all, talk with you about what you like to do in your spare time, what your academic interests are, or just to talk in general. You can also talk with me about what you liked in this page (, or what you did not like 🤫).
 
-If you want to know more about me, [click here](https://ynshah3.github.io/About)!
+If you want to know more about me, [click here](https://ynshah3.github.io/About).
 
 Here are links to my LinkedIn profile and GitHub repositories...
 
